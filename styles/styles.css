@@ -1,0 +1,10 @@
+.navbar-brand{
+   align-items: center;
+}
+
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
