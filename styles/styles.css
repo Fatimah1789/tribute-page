@@ -15,11 +15,14 @@ html, body{
     pointer-events: none;
 }
 
+.container{
+    display:flex;
+    justify-content: center;
+}
+
 .main-image{
-  margin: 0 auto;
-  position:relative;
-  left:45px
-  }
+    width:1000px;
+}
 
 h1{
     font-size: 50px;
