@@ -21,7 +21,8 @@ html, body{
 }
 
 .main-image{
-    width:1000px;
+    max-width:1000px;
+    height:auto;
 }
 
 h1{
