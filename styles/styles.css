@@ -3,6 +3,18 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+.navbar-design{
+    padding:2px;
+    margin:0;
+    color:white;
+    pointer-events: none;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 h1{
     font-size: 50px;
@@ -14,6 +26,12 @@ h5{
 
 h3{
     font-size: 30px;
+}
+
+.main-text{
+  margin: 0 auto;
+  position: relative;
+  left:100px;
 }
 
 .info-container {
@@ -106,6 +124,43 @@ h3{
     box-shadow: inset 1px 1px 5px #313131, inset -1px -1px 5px white;
   }
 
-.bg-light{
-    padding: 15px;
+
+.footer-design{
+    color:white;
+    padding:2px;
+    margin:0;
 }
+
+/* unvisited link */
+a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:white;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
